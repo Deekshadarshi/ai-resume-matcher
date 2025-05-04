@@ -26,9 +26,6 @@ resume-matcher/
 ├── app.py              # Main entry point (CLI/Web)
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
-git clone https://github.com/yourusername/resume-matcher.git
-cd resume-matcher
-pip install -r requirements.txt
 Usage
 python app.py --resume resume.pdf --job job_description.txt
 Future Improvements
